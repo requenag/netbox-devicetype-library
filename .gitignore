@@ -1,6 +1,9 @@
+# Remove common files
 *.pyc
 .idea
 .DS_Store
 venv/
+
+# Remove vscode related files
 .vscode
-device-types/Synqor/UPS-1500-S.yaml
+netbox-devicetype-library.code-workspace
