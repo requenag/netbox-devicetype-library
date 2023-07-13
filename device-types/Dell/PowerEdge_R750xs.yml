@@ -37,9 +37,3 @@ interfaces:
 device-bays:
   - name: Riser PCIe-Gen3 1
   - name: Riser PCIe-Gen3 2
-  - name: Riser PCIe-Gen3 3
-  - name: Riser PCIe-Gen3 4
-  - name: Riser PCIe-Gen3 5
-  - name: Riser PCIe-Gen3 6
-  - name: Riser PCIe-Gen3 7
-  - name: Riser PCIe-Gen3 8
