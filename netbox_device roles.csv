@@ -1,23 +1,23 @@
-Name,Devices,VMs,Color,VM Role,Description,ID,Slug,Tags,Created,Last updated
-ATS,0,0,#9e9e9e,False,,8,ats,,2023-02-03 11:00,2023-02-03 11:01
-Blank,0,0,#9e9e9e,False,,10,blank,,2023-02-03 11:01,2023-02-03 11:01
-Cable Management,20,0,#9e9e9e,False,,9,cable-management,,2023-02-03 11:00,2023-02-03 11:01
-Firewall,6,0,#9e9e9e,False,,6,firewall,,2023-02-03 11:00,2023-02-03 11:01
-IOT Switch,1,0,#9e9e9e,True,,22,iot-switch,,2023-02-06 05:06,2023-02-06 05:06
-IP Phone,1,0,#9e9e9e,True,,20,ip-phone,,2023-02-05 23:48,2023-02-05 23:48
-Laptop,1,0,#9e9e9e,True,,13,laptop,,2023-02-04 07:30,2023-02-04 07:30
-Library Tape,1,0,#9e9e9e,True,,16,library-tape,,2023-02-05 04:46,2023-02-05 04:46
-Mutobox,216,0,#9e9e9e,False,,18,mutobox,,2023-02-05 22:18,2023-02-05 22:19
-NAS,1,0,#9e9e9e,True,,21,nas,,2023-02-06 00:55,2023-02-06 00:55
-Network Access,9,0,#9e9e9e,False,,4,network-access,,2023-02-03 11:00,2023-02-03 11:01
-Network Card,0,0,#03a9f4,True,,12,network-card,,2023-02-04 06:36,2023-02-04 06:36
-Network Distribution,3,0,#9e9e9e,False,,5,network-distribution,,2023-02-03 11:00,2023-02-03 11:01
-Power Distribution,5,0,#9e9e9e,False,,1,power-distribution,,2023-02-03 10:59,2023-02-03 11:01
-Printer,1,0,#9e9e9e,True,,17,printer,,2023-02-05 05:36,2023-02-05 05:36
-Rack,0,0,#9e9e9e,True,,11,rack,,2023-02-03 11:06,2023-02-03 11:06
-Server Compute,17,0,#9e9e9e,True,,2,server-compute,,2023-02-03 11:00,2023-02-03 11:00
-Service Access Switch,1,0,#9e9e9e,True,,19,service-access-switch,,2023-02-05 23:24,2023-02-05 23:24
-Storage,2,0,#9e9e9e,True,,15,storage,,2023-02-05 04:45,2023-02-05 04:45
-UPS,1,0,#9e9e9e,False,,7,ups,,2023-02-03 11:00,2023-02-03 11:01
-Wireless Access Point,4,0,#9e9e9e,False,,14,wap,,2023-02-04 09:36,2023-02-04 09:36
-Workstation HMI,15,0,#9e9e9e,True,,3,workstation-hmi,,2023-02-03 11:00,2023-02-03 11:00
+name,color,vm_role,slug
+ATS,9e9e9e,FALSE,ats
+Blank,9e9e9e,FALSE,blank
+Cable Management,9e9e9e,FALSE,cable-management
+Firewall,9e9e9e,FALSE,firewall
+IOT Switch,9e9e9e,TRUE,iot-switch
+IP Phone,9e9e9e,TRUE,ip-phone
+Laptop,9e9e9e,TRUE,laptop
+Library Tape,9e9e9e,TRUE,library-tape
+Mutobox,9e9e9e,FALSE,mutobox
+NAS,9e9e9e,TRUE,nas
+Network Access,9e9e9e,FALSE,network-access
+Network Card,03a9f4,TRUE,network-card
+Network Distribution,9e9e9e,FALSE,network-distribution
+Power Distribution,9e9e9e,FALSE,power-distribution
+Printer,9e9e9e,TRUE,printer
+Rack,9e9e9e,TRUE,rack
+Server Compute,9e9e9e,TRUE,server-compute
+Service Access Switch,9e9e9e,TRUE,service-access-switch
+Storage,9e9e9e,TRUE,storage
+UPS,9e9e9e,FALSE,ups
+Wireless Access Point,9e9e9e,FALSE,wap
+Workstation HMI,9e9e9e,TRUE,workstation-hmi
