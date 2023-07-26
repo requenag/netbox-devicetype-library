@@ -1,0 +1,32 @@
+---
+manufacturer: Cisco
+model: Business Switch CBS350-8MP-2X
+part_number: CBS350-8MP-2X
+slug: cbs-c350-8mp-2x
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: con 0
+    type: rj-45
+power-ports:
+  - name: POWER
+    type: iec-60320-c14
+interfaces:
+  - name: Gigabit0/1
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 1000base-t
